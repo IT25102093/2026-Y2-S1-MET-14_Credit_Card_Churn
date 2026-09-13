@@ -16,7 +16,7 @@ Predicting Credit Card Customer Churn Using Multi-Quarter Usage Trends
 | Student ID | Individual Preprocessing Role | Notebook File |
 | :--- | :--- | :--- |
 | **IT25102085** | Drop Irrelevant & Leakage Columns | `notebooks/IT25102085_Drop_Leakage_Columns.ipynb` |
-| **IT25102086** | Check and Remove Duplicate Rows | `notebooks/IT25102086_Remove_Duplicates.ipynb` |
+| **IT25102086** | Encoding Categorical Variables | `notebooks/IT25102086_Encode_Categorical.ipynb` |
 | **IT25102090** | Handling Missing & 'Unknown' Values | `notebooks/IT25102090_Handle_Missing_Values.ipynb` |
 | **IT25102091** | Outlier Detection (IQR Method) | `notebooks/IT25102091_Outlier_Detection.ipynb` |
 | **IT25102092** | Correlation Analysis (EDA Heatmap) | `notebooks/IT25102092_Correlation_Analysis.ipynb` |
